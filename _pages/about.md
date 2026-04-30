@@ -27,6 +27,7 @@ latest_posts:
 ---
 
 I’m a PhD student advised by Kostas Bekris. My research is on efficient algorithms for Kinodynamic Motion Planning and Control. I'm interested in the integration of Sampling-based Motion Planning (SBMP) with control and estimation algorithms for reliable robot execution. I have explored this integration via factor graphs, to exploit the structure of the problem.
+
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. -->
