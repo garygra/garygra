@@ -289,7 +289,7 @@ scholar:
   first_name: [Edgar]
 
   # style: chicago-fullnote-bibliography
-  dependent/style: chicago-in-text-full
+  # dependent/style: chicago-in-text-full
 
   locale: en
 
