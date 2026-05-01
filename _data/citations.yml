@@ -1,10 +1,14 @@
 metadata:
-  last_updated: '2026-03-25'
+  last_updated: '2026-05-01'
 papers:
   mMoIST8AAAAJ:0EnyYjriUFMC:
     citations: 4
     title: Integrating model-based control and rl for sim2real transfer of tight insertion policies
     year: '2025'
+  mMoIST8AAAAJ:5nxA0vEk-isC:
+    citations: 1
+    title: State and Trajectory Estimation of Tensegrity Robots via Factor Graphs and Chebyshev Polynomials
+    year: '2026'
   mMoIST8AAAAJ:9yKSN-GCB0IC:
     citations: 1
     title: "Path planning and following for an autonomous model car using an \u201Ceye in the sky\u201D"
@@ -46,7 +50,7 @@ papers:
     title: Data-efficient characterization of the global dynamics of robot controllers with confidence guarantees
     year: '2023'
   mMoIST8AAAAJ:_FxGoFyzp5QC:
-    citations: 9
+    citations: 10
     title: 'Morals: Analysis of high-dimensional robot controllers via topological tools in a latent space'
     year: '2024'
   mMoIST8AAAAJ:d1gkVwhDpl0C:
@@ -58,7 +62,7 @@ papers:
     title: Towards benchmarking sampling-based kinodynamic motion planners with ml4kp
     year: '2022'
   mMoIST8AAAAJ:hqOjcs7Dif8C:
-    citations: 0
+    citations: 1
     title: 'Kinodynamic Trajectory Following with STELA: Simultaneous Trajectory Estimation & Local Adaptation'
     year: '2025'
   mMoIST8AAAAJ:qjMakFHDy7sC:
@@ -78,7 +82,7 @@ papers:
     title: Integrated Task and Motion Planning for Instances of Autonomous Driving
     year: '2017'
   mMoIST8AAAAJ:ufrVoPGSRksC:
-    citations: 8
+    citations: 9
     title: Terrain-aware learned controllers for sampling-based kinodynamic planning over physically simulated terrains
     year: '2022'
   mMoIST8AAAAJ:zYLM7Y9cAGgC:
